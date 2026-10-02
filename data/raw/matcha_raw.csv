@@ -1,0 +1,50 @@
+brand,product_name,grade,weight_g,origin,region,organic,price_usd,rating,num_reviews,notes
+Nami Matcha,Yame First Harvest,First Harvest,30,Japan,Yame,FALSE,42.00,4.67,492,specified district
+Nami Matcha,Okumidori First Harvest,First Harvest,30,Japan,Kagoshima,TRUE,39.00,4.68,656,specified district
+Ippodo Tea,Kanza,First Harvest,20,Japan,Uji,FALSE,104.00,4.65,26,specified district
+Ippodo Tea,Sayaka,First Harvest,40,Japan,Uji,FALSE,50.00,4.87,1148,specified district
+Ippodo Tea,Kuon,First Harvest,20,Japan,Uji,FALSE,64.00,4.83,35,specified district
+Ippodo Tea,Ummon,First Harvest,40,Japan,Uji,FALSE,82.00,4.89,692,specified district
+Ippodo Tea,Seiun,First Harvest,40,Japan,Uji,FALSE,67.00,4.9,163,specified district
+Ippodo Tea,Kan,First Harvest,20,Japan,Uji,FALSE,22.00,4.81,118,specified district
+Ippodo Tea,Ikuyo,First Harvest,20,Japan,Uji,FALSE,17.00,4.87,796,specified district
+Ippodo Tea,Wakaki,First Harvest,20,Japan,Uji,FALSE,11.00,4.76,141,specified district
+Naoki,Superior Blend,Ceremonial,40,Japan,Uji,FALSE,24.99,4.5,6266,specified district
+Naoki,Chiran Harvest,Ceremonial,40,Japan,Kagoshima,FALSE,33.99,4.5,342,specified district
+Naoki,Nishio Bloom,Ceremonial,40,Japan,Nishio,FALSE,39.99,4.3,79,specified district
+Naoki,First Spring Blend,Ceremonial,40,Japan,Kagoshima,TRUE,25.99,4.4,2775,specified district
+Naoki,Organic Matcha,Culinary,40,Japan,Kagoshima,TRUE,14.99,4.3,300,specified district
+Naoki,Ujitawara Special,Ceremonial,40,Japan,Uji,FALSE,42.99,4.4,118,specified district
+Kiyo Matcha,Hatsumukashi,Ceremonial,40,Japan,Uji,FALSE,24.99,4.6,262,specified district
+Kiyo Matcha,Densho,Ceremonial,40,Japan,Uji,FALSE,56.99,3.9,56,specified district
+Kiyo Matcha,Tenryu,Ceremonial,40,Japan,Uji,FALSE,42.99,4.4,63,specified district
+Kiyo Matcha,Chiba FALSE Shiro,Ceremonial,40,Japan,Kagoshima,TRUE,23.99,4.4,48,specified district
+Kiyo Matcha,Toyokage,Ceremonial,40,Japan,Uji,FALSE,31.99,4.5,242,specified district
+Kiyo Matcha,Wakyo,Ceremonial,40,Japan,Uji,FALSE,36.99,4.5,77,specified district
+Kiyo Matcha,Shuga,Ceremonial,40,Japan,Uji,FALSE,28.99,4.8,50,specified district
+Matcharl,TARO Blend,Ceremonial,40,Japan,Uji,FALSE,21.99,4.5,279,specified district
+Matcharl,GOLD Blend,Ceremonial,40,Japan,Uji,FALSE,28.50,4.4,131,specified district
+Matcharl,HIME Blend,Ceremonial,40,Japan,Uji,FALSE,38.99,4.2,48,specified district
+Chaism,Pure Organic Matcha,Ceremonial,30,China,Hangzhou,TRUE,19.99,4.5,2747,specified district
+Midori Spring,Gold FALSE.2,Ceremonial,30,Japan,Kyoto,FALSE,25.00,4.5,947,prefecture only
+Midori Spring,Gold,Ceremonial,30,Japan,Kyoto,TRUE,26.00,4.5,947,prefecture only
+Encha,Ceremonial Grade Matcha Powder,Ceremonial,60,Japan,Uji,TRUE,36.99,4.5,6121,specified district
+Encha,Latte Grade Matcha Powder,Latte,60,Japan,Uji,TRUE,27.99,4.6,2605,specified district
+FKRO,Organic Ceremonial Matcha,Ceremonial,30,Japan,Tenryu,TRUE,28.90,4.7,207,specified district
+Tagashira Chaho,Uji FALSE Shiro,Ceremonial,30,Japan,Uji,FALSE,23.99,4.5,110,specified district
+Tagashira Chaho,Saga FALSE Mukashi,Ceremonial,30,Japan,Uji,FALSE,29.99,4.6,52,specified district
+Chazoku,Okumidori,Ceremonial,35,Japan,Yame,FALSE,29.90,4.7,68,specified district
+Chazoku,Samidori,Ceremonial,35,Japan,Kagoshima,FALSE,28.90,4.6,73,specified district
+Chazoku,Gokou,Ceremonial,35,Japan,Yame,FALSE,30.90,4.5,46,specified district
+Crafti,Ceremonial Uji Matcha,Barista,30,Japan,Uji,TRUE,20.95,4.5,1917,specified district
+Crafti,Signature Ceremonial,Ceremonial,30,Japan,Uji,FALSE,23.96,5.0,17,specified district
+Crafti,Barista Uji Matcha,Culinary,75,Japan,Uji,FALSE,24.95,4.6,3,specified district
+Crafti,Reserve Saemidori,Ceremonial,30,Japan,Yame,FALSE,29.95,5.0,2,specified district
+Crafti,Reserve Yabukita,Ceremonial,30,Japan,Yame,FALSE,26.95,3.5,2,specified district
+Yuzuki,Ceremonial Grade Matcha,Ceremonial,40,Japan,Uji,TRUE,25.98,4.6,123,specified district
+Micro Ingredients,Organic Matcha Green Tea,Culinary,907,Japan,Unknown,TRUE,42.99,4.5,6124,"country only, no region given"
+NatureBell,Organic Matcha Green Tea Powder,Culinary,907,Japan,Unknown,TRUE,36.95,4.5,669,"country only, no region given"
+DoMatcha,Organic Ceremonial,Ceremonial,28,Japan,Unknown,TRUE,39.95,4.6,723,"country only, no region given"
+DoMatcha,Organic Summer Harvest,Latte,30,Japan,Unknown,TRUE,29.02,4.6,865,"country only, no region given"
+DoMatcha,Summer Harvest,Culinary,80,Japan,Unknown,FALSE,47.49,4.7,525,"country only, no region given"
+ITO EN,Matcha Green Tea,Unknown,57,Japan,Unknown,FALSE,11.99,4.5,1504,"country only, no region given"
