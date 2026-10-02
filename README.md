@@ -1,4 +1,3 @@
-````markdown
 # MatchaSense
 
 A data pipeline and pricing model for matcha products: collecting a custom
@@ -41,13 +40,13 @@ predict it from product attributes?**
 
 ## Project Structure
 
-````
+```
 data/raw/           raw, unmodified exports (never hand-edited)
 data/processed/      cleaned data produced by src/clean.py
 notebooks/           exploratory analysis and modeling notebooks
 src/                 reusable pipeline code (cleaning, features, modeling)
 reports/figures/     saved plots and visualizations
-````
+```
 
 ## Setup & Usage
 
@@ -87,4 +86,3 @@ _To be filled in once the model is trained and evaluated._
 - [ ] Exploratory data analysis
 - [ ] Predictive model
 - [ ] Final write-up
-````
