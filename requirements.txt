@@ -1,0 +1,14 @@
+# Core data handling
+numpy>=1.26
+pandas>=2.2
+
+# Visualization
+matplotlib>=3.8
+seaborn>=0.13
+
+# Modeling
+scikit-learn>=1.4
+
+# Notebooks
+jupyterlab>=4.0
+ipykernel>=6.29
