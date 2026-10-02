@@ -14,8 +14,10 @@ predict it from product attributes?**
 ## Data
 
 - **Source(s):** Manually collected from online matcha retailers into a
-  Google Sheet, then exported to CSV. Source URL, date collected, and
-  currency are recorded per row.
+  Google Sheet, then exported to CSV. All 50 products were collected in
+  a single session in October 2026, with prices recorded in USD.
+  Per-row source URLs were not retroactively captured for this initial
+  batch; see Limitations.
 - **Size:** 50 products (initial collection; more rows are being added to
   improve coverage across grades and origins — see Limitations).
 - **Data dictionary:**
@@ -35,8 +37,9 @@ predict it from product attributes?**
 | notes | string | Free-text notes |
 
 - **Limitations:** Small initial sample (n=50); online-retailer selection
-  bias; prices are a snapshot at time of collection and may not reflect
-  current pricing.
+  bias; prices are a one-time snapshot from October 2026 and may not
+  reflect current pricing; individual source URLs were not retained, so
+  prices cannot be re-verified against the original listings.
 
 ## Project Structure
 
